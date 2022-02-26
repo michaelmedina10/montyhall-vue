@@ -1,4 +1,7 @@
 # montyhall
+Which door is the present?
+![image](https://user-images.githubusercontent.com/68739172/155843106-ccac8844-a930-4ea2-b21e-9bb30948a7dd.png)
+
 
 ## Project setup
 ```
